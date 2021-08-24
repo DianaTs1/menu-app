@@ -31,11 +31,6 @@
     padding: 0.25rem 1rem;
     font-size: 16px;
   }
-  
-  .button:hover .badge,
-  .button:active .badge {
-  background-color: #f3ddc4c2;
-}
 
 .bump {
   animation: bump 300ms ease-out;
